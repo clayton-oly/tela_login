@@ -1,0 +1,6 @@
+.form-group{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(206, 194, 194);
+}
